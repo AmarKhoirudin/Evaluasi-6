@@ -1,0 +1,20 @@
+ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    font-style: Bold;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul.header {
+    background-color: red;
+    padding: 0;
+    border-radius: 5px;
+    text-align: center;
+}
+ul.header li a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
